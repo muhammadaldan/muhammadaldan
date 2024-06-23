@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Aldan! 👋
 
-I'm a full stack developer specializing in Vue.js, Laravel, PHP, and JavaScript.
+I'm a full stack developer specializing in Vue.js, React.js, Laravel, PHP, and JavaScript.
 
 ## 🔗 Links
 
