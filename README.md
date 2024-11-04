@@ -11,9 +11,7 @@ I'm a full stack developer specializing in Vue.js, React.js, Laravel, PHP, and J
 
 Feel free to reach me at email aldan@nurzen.group.
 
-### Badges
-
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
 <a href="http://www.github.com/muhammadaldan"><img src="https://github-readme-stats.vercel.app/api?username=muhammadaldan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muhammadaldan's GitHub stats" /></a>
 
